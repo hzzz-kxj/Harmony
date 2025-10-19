@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Countdown",
+    "pages/SwitchPicture",
+    "pages/StateDemo",
+    "pages/PropDemo",
+    "pages/Layout",
+    "pages/Workbench"
+  ]
+}

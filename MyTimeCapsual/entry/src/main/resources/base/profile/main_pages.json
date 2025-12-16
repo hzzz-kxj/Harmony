@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/MainHome",
+    "pages/CreateCapsule",
+    "pages/CapsuleDetail",
+    "pages/TimeLine",
+    "pages/Discovery",
+    "pages/Profile",
+    "pages/Settings"
+  ]
+}
